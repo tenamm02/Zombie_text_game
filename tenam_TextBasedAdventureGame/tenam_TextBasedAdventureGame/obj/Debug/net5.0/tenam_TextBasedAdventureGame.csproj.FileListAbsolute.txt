@@ -1,0 +1,15 @@
+/Users/michaeltenam/Desktop/SHU/CS272A/tenam_TextBasedAdventureGame/tenam_TextBasedAdventureGame/bin/Debug/net5.0/tenam_TextBasedAdventureGame.deps.json
+/Users/michaeltenam/Desktop/SHU/CS272A/tenam_TextBasedAdventureGame/tenam_TextBasedAdventureGame/bin/Debug/net5.0/tenam_TextBasedAdventureGame.runtimeconfig.json
+/Users/michaeltenam/Desktop/SHU/CS272A/tenam_TextBasedAdventureGame/tenam_TextBasedAdventureGame/bin/Debug/net5.0/tenam_TextBasedAdventureGame.runtimeconfig.dev.json
+/Users/michaeltenam/Desktop/SHU/CS272A/tenam_TextBasedAdventureGame/tenam_TextBasedAdventureGame/bin/Debug/net5.0/tenam_TextBasedAdventureGame.dll
+/Users/michaeltenam/Desktop/SHU/CS272A/tenam_TextBasedAdventureGame/tenam_TextBasedAdventureGame/bin/Debug/net5.0/ref/tenam_TextBasedAdventureGame.dll
+/Users/michaeltenam/Desktop/SHU/CS272A/tenam_TextBasedAdventureGame/tenam_TextBasedAdventureGame/bin/Debug/net5.0/tenam_TextBasedAdventureGame.pdb
+/Users/michaeltenam/Desktop/SHU/CS272A/tenam_TextBasedAdventureGame/tenam_TextBasedAdventureGame/obj/Debug/net5.0/tenam_TextBasedAdventureGame.csproj.AssemblyReference.cache
+/Users/michaeltenam/Desktop/SHU/CS272A/tenam_TextBasedAdventureGame/tenam_TextBasedAdventureGame/obj/Debug/net5.0/tenam_TextBasedAdventureGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaeltenam/Desktop/SHU/CS272A/tenam_TextBasedAdventureGame/tenam_TextBasedAdventureGame/obj/Debug/net5.0/tenam_TextBasedAdventureGame.AssemblyInfoInputs.cache
+/Users/michaeltenam/Desktop/SHU/CS272A/tenam_TextBasedAdventureGame/tenam_TextBasedAdventureGame/obj/Debug/net5.0/tenam_TextBasedAdventureGame.AssemblyInfo.cs
+/Users/michaeltenam/Desktop/SHU/CS272A/tenam_TextBasedAdventureGame/tenam_TextBasedAdventureGame/obj/Debug/net5.0/tenam_TextBasedAdventureGame.csproj.CoreCompileInputs.cache
+/Users/michaeltenam/Desktop/SHU/CS272A/tenam_TextBasedAdventureGame/tenam_TextBasedAdventureGame/obj/Debug/net5.0/tenam_TextBasedAdventureGame.dll
+/Users/michaeltenam/Desktop/SHU/CS272A/tenam_TextBasedAdventureGame/tenam_TextBasedAdventureGame/obj/Debug/net5.0/ref/tenam_TextBasedAdventureGame.dll
+/Users/michaeltenam/Desktop/SHU/CS272A/tenam_TextBasedAdventureGame/tenam_TextBasedAdventureGame/obj/Debug/net5.0/tenam_TextBasedAdventureGame.pdb
+/Users/michaeltenam/Desktop/SHU/CS272A/tenam_TextBasedAdventureGame/tenam_TextBasedAdventureGame/obj/Debug/net5.0/tenam_TextBasedAdventureGame.genruntimeconfig.cache
